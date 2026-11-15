@@ -23,7 +23,7 @@ export interface PortfolioProfile {
 
 export const portfolioProfile: PortfolioProfile = {
   name: 'Rachid Asbai',
-  role: 'Tech Hobbyist',
+  role: 'Web Development Hobbyist',
   yearsExperience: 4,
   mathNote:
     'I am fascinated by mathematics — drawn to the beauty of equations, patterns, and abstract logic, and how mathematical thinking brings clarity to software and technology.',

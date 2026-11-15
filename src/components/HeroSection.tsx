@@ -122,7 +122,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ profile, onOpenConnect
                 <span className="text-blue-400 font-mono text-lg mr-2" aria-hidden="true">
                   ∑
                 </span>
-                {profile.role} with{' '}
+                Tech Interesting with{' '}
                 <span className="font-mono text-zinc-100 tabular-nums">
                   {String(profile.yearsExperience).padStart(2, '0')}
                 </span>{' '}
